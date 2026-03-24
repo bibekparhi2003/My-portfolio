@@ -303,13 +303,13 @@ nav a{
     }
 }
 
-  @media screen and (max-width:750px) {
+  /* @media screen and (max-width:750px) {
     .project-container{
         grid-template-columns: 1fr;
     }
 
     #navigation nav {
-        /* Adjust nav for smaller screens */
+       
         justify-content: center;
         flex-wrap: wrap;
     }
@@ -319,4 +319,4 @@ nav a{
         justify-content: center;
         gap: 40px;
     }
- } 
+ }  */
